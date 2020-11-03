@@ -84,7 +84,7 @@ body{
 		display: none;
 	}
 }
-@media (max-width: 576px){
+@media (max-width: 575px){
 	.texto{
 		font-size: 95%;
 	}
